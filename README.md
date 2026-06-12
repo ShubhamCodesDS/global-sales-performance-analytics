@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-The Global Sales Performance Analytics Dashboard is an end-to-end Business Intelligence project developed using Python, SQL, Excel, and Power BI.
+The Global Sales Performance Analytics is an end-to-end Business Intelligence project developed using Python, SQL, Excel, and Power BI.
 
 The project analyzes global sales data to uncover insights related to sales performance, profitability, customer behavior, product performance, and regional trends. The dashboard helps stakeholders make data-driven decisions through interactive visualizations and KPI monitoring.
 
