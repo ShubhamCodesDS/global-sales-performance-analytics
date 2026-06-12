@@ -1,4 +1,4 @@
-# 📊 Global Sales Performance Analytics 
+# 📊 Global Sales Performance Analytics Dashboard
 
 ## 📌 Project Overview
 
@@ -8,25 +8,45 @@ The project analyzes global sales data to uncover insights related to sales perf
 
 ---
 
+# 📸 Dashboard Preview
+
+## Executive Summary
+
+![image ali](Executive_Summary.png)
+
+## Product Performance Analysis
+
+![Product Performance Analysis](Product_Performance.png)
+
+## Customer Insights
+
+![Customer Insights](Customer_Insights.png)
+
+## Profitability Analysis
+
+![Profitability Analysis](Profitability_Analysis.png)
+
+---
+
 ## 🎯 Business Objectives
 
-- Analyze overall sales and profitability performance
-- Identify top-performing products and customers
-- Evaluate regional and market-wise sales trends
-- Understand customer segment distribution
-- Analyze the impact of discounts on profitability
-- Monitor shipping costs across different ship modes
+* Analyze overall sales and profitability performance
+* Identify top-performing products and customers
+* Evaluate regional and market-wise sales trends
+* Understand customer segment distribution
+* Analyze the impact of discounts on profitability
+* Monitor shipping costs across different ship modes
 
 ---
 
 ## 🛠️ Tools & Technologies
 
-- Python (Pandas, NumPy)
-- SQL (MySQL)
-- Microsoft Excel
-- Power BI
-- Data Visualization
-- Business Intelligence
+* Python (Pandas, NumPy)
+* SQL (MySQL)
+* Microsoft Excel
+* Power BI
+* Data Visualization
+* Business Intelligence
 
 ---
 
@@ -34,138 +54,94 @@ The project analyzes global sales data to uncover insights related to sales perf
 
 ### 1️⃣ Data Cleaning & Preprocessing (Python)
 
-- Removed missing values
-- Converted date columns
-- Created month and quarter features
-- Calculated shipping days
-- Standardized data types
+* Removed missing values
+* Converted date columns
+* Created month and quarter features
+* Calculated shipping days
+* Standardized data types
 
 ### 2️⃣ SQL Analysis
 
-- KPI calculations
-- Product performance analysis
-- Customer analysis
-- Profitability analysis
-- Market and regional analysis
-- Business insight generation
+* KPI calculations
+* Product performance analysis
+* Customer analysis
+* Profitability analysis
+* Market and regional analysis
+* Business insight generation
 
 ### 3️⃣ Power BI Dashboard Development
 
 Created an interactive dashboard with:
 
-- KPI Cards
-- Trend Analysis
-- Product Performance Analysis
-- Customer Insights
-- Profitability Analysis
-- Dynamic Filters & Slicers
+* KPI Cards
+* Trend Analysis
+* Product Performance Analysis
+* Customer Insights
+* Profitability Analysis
+* Dynamic Filters & Slicers
 
 ---
 
-# 📈 Dashboard Pages
+## 📈 Dashboard Pages
 
-## Executive Summary
+### Executive Summary
 
-Key Metrics:
+* Total Sales
+* Total Profit
+* Profit Margin %
+* Total Orders
+* Total Customers
+* Monthly Sales Trend
+* Region-wise Sales Performance
 
-- Total Sales
-- Total Profit
-- Profit Margin %
-- Total Orders
-- Total Customers
+### Product Performance Analysis
 
-Visuals:
+* Top Products by Sales
+* Top Products by Profit
+* Sales Contribution by Category
+* Sub-Category Performance
+* Category-wise Profit Analysis
 
-- Monthly Sales Trend
-- Region-wise Sales Performance
+### Customer Insights
 
----
+* Customers by Market
+* Top Customers by Sales
+* Top Customers by Profit
+* Customer Distribution by Segment
+* Sales Contribution by Customer Segment
 
-## Product Performance Analysis
+### Profitability Analysis
 
-Visuals:
-
-- Top Products by Sales
-- Top Products by Profit
-- Sales Contribution by Category
-- Sub-Category Performance
-- Category-wise Profit Analysis
-
----
-
-## Customer Insights
-
-Visuals:
-
-- Customers by Market
-- Top Customers by Sales
-- Top Customers by Profit
-- Customer Distribution by Segment
-- Sales Contribution by Customer Segment
-
----
-
-## Profitability Analysis
-
-Visuals:
-
-- Discount vs Profit Analysis
-- Profit by Category
-- Profit by Market
-- Profit by Sub-Category
-- Average Shipping Cost by Ship Mode
+* Discount vs Profit Analysis
+* Profit by Category
+* Profit by Market
+* Profit by Sub-Category
+* Average Shipping Cost by Ship Mode
 
 ---
 
 ## 📊 Key Insights
 
-- Generated over 8M+ in total sales
-- Achieved approximately 18.75% profit margin
-- Identified top-performing products and customers
-- Analyzed profitability across global markets
-- Evaluated discount impact on business profit
-- Monitored shipping cost trends by delivery mode
-
----
-
-## 📁 Repository Structure
-
-```text
-global-sales-performance-analytics-dashboard
-│
-├── Dashboard
-│   └── Global_Sales_Performance_Analytics_Dashboard.pbix
-│
-├── Dataset
-│   └── cleaned_sales_data.csv
-│
-├── SQL
-│   └── sales_analysis_queries.sql
-│
-├── Images
-│   ├── Executive_Summary.png
-│   ├── Product_Performance.png
-│   ├── Customer_Insights.png
-│   └── Profitability_Analysis.png
-│
-├── README.md
-├── LICENSE
-└── requirements.txt
-```
+* Generated over 8M+ in total sales
+* Achieved approximately 18.75% profit margin
+* Identified top-performing products and customers
+* Analyzed profitability across global markets
+* Evaluated discount impact on business profit
+* Monitored shipping cost trends by delivery mode
 
 ---
 
 ## 🚀 Skills Demonstrated
 
-- Data Cleaning
-- Data Transformation
-- Feature Engineering
-- SQL Query Writing
-- KPI Development
-- Business Analysis
-- Data Visualization
-- Dashboard Design
-- Power BI Reporting
+* Data Cleaning
+* Data Transformation
+* Feature Engineering
+* SQL Query Writing
+* KPI Development
+* Business Analysis
+* Data Visualization
+* Dashboard Design
+* Power BI Reporting
 
 ---
 
@@ -175,9 +151,9 @@ global-sales-performance-analytics-dashboard
 
 Aspiring Data Analyst | Power BI | SQL | Python | Excel
 
-LinkedIn: Add Your LinkedIn Profile Link
+LinkedIn: Your LinkedIn Profile
 
-GitHub: Add Your GitHub Profile Link
+GitHub: Your GitHub Profile
 
 ---
 
