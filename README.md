@@ -1,4 +1,4 @@
-# 📊 Global Sales Performance Analytics Dashboard
+# 📊 Global Sales Performance Analytics 
 
 ## 📌 Project Overview
 
