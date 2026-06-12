@@ -16,8 +16,7 @@ The project analyzes global sales data to uncover insights related to sales perf
 
 ## Product Performance Analysis
 
-![Product Performance Analysis](Product_Performance.png)
-
+![image alt](https://github.com/ShubhamCodesDS/global-sales-performance-analytics/blob/b7139ffbf463de51f91dedde2fa668126729c6f5/Dashboard%20Images/Screenshot%202026-06-12%20190034.png)
 ## Customer Insights
 
 ![Customer Insights](Customer_Insights.png)
