@@ -23,8 +23,7 @@ The project analyzes global sales data to uncover insights related to sales perf
 
 ## Profitability Analysis
 
-![Profitability Analysis](Profitability_Analysis.png)
-
+![image alt](https://github.com/ShubhamCodesDS/global-sales-performance-analytics/blob/07438f2a39861caec7e930ea359e1f6b285d6500/Dashboard%20Images/Screenshot%202026-06-12%20190128.png)
 ---
 
 ## 🎯 Business Objectives
