@@ -149,10 +149,9 @@ Created an interactive dashboard with:
 
 Aspiring Data Analyst | Power BI | SQL | Python | Excel
 
-LinkedIn: Your LinkedIn Profile
+LinkedIn:(https://www.linkedin.com/in/shubhamds/)
 
-GitHub: Your GitHub Profile
-
+GitHub:ShubhamCodesDS
 ---
 
 ⭐ If you found this project useful, consider giving it a star.
